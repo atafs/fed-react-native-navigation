@@ -1,6 +1,7 @@
 Code for [intro to React Navigation tutorial]
 (https://www.youtube.com/watch?v=C96piR3FRww).
 
+https://reactnavigation.org/docs/hello-react-navigation.html
 
 # Installation
 > `git clone https://github.com/spencercarli/getting-started-react-navigation.git`
